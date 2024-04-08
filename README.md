@@ -1,7 +1,7 @@
 # widgets_refactoring
 
 <p align="center">
-  <img src = " https://github.com/mayuuu05/ui_small_parts/assets/149376263/0003727a-83eb-4eb5-85d5-cb96bcb55935" width=22% height=35% >
+  <img src = " https://github.com/mayuuu05/ui_small_parts/assets/149376263/e4b0089f-6b3d-4422-95de-bdea4fc7f9da" width=22% height=35% >
    <img src = "https://github.com/mayuuu05/ui_small_parts/assets/149376263/63d1777e-7301-4858-ae34-b91144f7e4dc " width=22% height=35% >
    <img src = " https://github.com/mayuuu05/ui_small_parts/assets/149376263/745164fe-bdd8-40b3-800c-fa63ccb9406c" width=22% height=35% >
    <img src = " https://github.com/mayuuu05/ui_small_parts/assets/149376263/4a1b7f59-212f-4453-b189-cc7d4345ad60" width=22% height=35% >
@@ -9,6 +9,12 @@
   <br>
   </br>
 </br>
+
+![project1]()
+![project3](https://github.com/mayuuu05/ui_small_parts/assets/149376263/8c9e1c66-cc23-4f2c-8a3f-e8b56558161e)
+
+![project4](https://github.com/mayuuu05/ui_small_parts/assets/149376263/5a4b0aba-be19-4103-90df-d8e853823ed4)
+
   
    <img src = "https://github.com/mayuuu05/ui_small_parts/assets/149376263/72d95fcd-ab12-49db-9fd6-3ce9d5d7edd7       " width=22% height=35% >
    <img src = "https://github.com/mayuuu05/ui_small_parts/assets/149376263/5a41284a-bca0-482e-940e-80647e7c4280       " width=22% height=35% >
