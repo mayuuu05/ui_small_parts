@@ -10,10 +10,6 @@
   </br>
 </br>
 
-![project1]()
-![project3]()
-
-![project4]()
 
   
    <img src = "https://github.com/mayuuu05/ui_small_parts/assets/149376263/72d95fcd-ab12-49db-9fd6-3ce9d5d7edd7       " width=22% height=35% >
