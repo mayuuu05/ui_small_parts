@@ -1,9 +1,11 @@
 # widgets_refactoring
 
-
-
-
-    <br>
+<p align="center">
+  <img src = " https://github.com/mayuuu05/ui_small_parts/assets/149376263/0003727a-83eb-4eb5-85d5-cb96bcb55935" width=22% height=35% >
+   <img src = "https://github.com/mayuuu05/ui_small_parts/assets/149376263/63d1777e-7301-4858-ae34-b91144f7e4dc " width=22% height=35% >
+   <img src = " https://github.com/mayuuu05/ui_small_parts/assets/149376263/745164fe-bdd8-40b3-800c-fa63ccb9406c" width=22% height=35% >
+   <img src = " https://github.com/mayuuu05/ui_small_parts/assets/149376263/4a1b7f59-212f-4453-b189-cc7d4345ad60" width=22% height=35% >
+<br>
   <br>
   </br>
 </br>
