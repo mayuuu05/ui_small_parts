@@ -3,10 +3,10 @@
 
 
 <p align="center">
-  <img src = " https://github.com/mayuuu05/ui_small_parts/assets/149376263/1dc33d04-55c6-4509-96c6-27add7287849" width=22% height=35% >
+  <img src = " https://github.com/mayuuu05/ui_small_parts/assets/149376263/0003727a-83eb-4eb5-85d5-cb96bcb55935" width=22% height=35% >
    <img src = "https://github.com/mayuuu05/ui_small_parts/assets/149376263/63d1777e-7301-4858-ae34-b91144f7e4dc " width=22% height=35% >
-   <img src = " https://github.com/mayuuu05/ui_small_parts/assets/149376263/5e06199b-cd50-4319-b684-b7a53ebab76d" width=22% height=35% >
-   <img src = " https://github.com/mayuuu05/ui_small_parts/assets/149376263/d1048bd5-e0ea-4f05-99fa-96ec8a63863a" width=22% height=35% >
+   <img src = " https://github.com/mayuuu05/ui_small_parts/assets/149376263/745164fe-bdd8-40b3-800c-fa63ccb9406c" width=22% height=35% >
+   <img src = " https://github.com/mayuuu05/ui_small_parts/assets/149376263/4a1b7f59-212f-4453-b189-cc7d4345ad60" width=22% height=35% >
     <br>
   <br>
   </br>
