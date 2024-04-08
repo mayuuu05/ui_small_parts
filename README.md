@@ -1,5 +1,25 @@
 # widgets_refactoring
 
+
+
+
+<p align="center">
+  <img src = " https://github.com/mayuuu05/ui_small_parts/assets/149376263/c01db9ef-d3c0-433f-92aa-5a99cd5ab2d5" width=22% height=35% >
+   <img src = "https://github.com/mayuuu05/ui_small_parts/assets/149376263/63d1777e-7301-4858-ae34-b91144f7e4dc " width=22% height=35% >
+   <img src = " https://github.com/mayuuu05/ui_small_parts/assets/149376263/5d173add-dbdc-47f5-98d5-f60ded3265d9" width=22% height=35% >
+   <img src = " https://github.com/mayuuu05/ui_small_parts/assets/149376263/75d45361-b34e-4a59-aadf-3ffeff2a02d8" width=22% height=35% >
+    <br>
+  <br>
+  </br>
+</br>
+  
+   <img src = "https://github.com/mayuuu05/ui_small_parts/assets/149376263/72d95fcd-ab12-49db-9fd6-3ce9d5d7edd7       " width=22% height=35% >
+   <img src = "https://github.com/mayuuu05/ui_small_parts/assets/149376263/5a41284a-bca0-482e-940e-80647e7c4280       " width=22% height=35% >
+   <img src = "https://github.com/mayuuu05/ui_small_parts/assets/149376263/d9379c94-5880-4cff-a4c4-592d7b866ee2    " width=22% height=35% >
+   <img src = "https://github.com/mayuuu05/ui_small_parts/assets/149376263/275de905-ad8c-4cc8-ae0d-d0927728bec0    " width=22% height=35% >
+
+</p>
+
 A new Flutter project.
 
 ## Getting Started
